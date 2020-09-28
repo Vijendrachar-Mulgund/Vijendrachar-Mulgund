@@ -21,7 +21,6 @@
 
 ## Here are some of the Tools & Languages I use often:
 
-<br/>
 
 ### UI/UX Design
 
