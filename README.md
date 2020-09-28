@@ -2,11 +2,11 @@
 
 ### Welcome to my GitHub Page.
 
-<br/>
+
 
 ### Here is a little bit about myself:
 
-<br/>
+
 
 ### I'm an aspiring Fullstack Web Developer & UI/UX Designer.
 
