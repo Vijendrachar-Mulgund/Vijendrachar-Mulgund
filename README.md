@@ -1,10 +1,10 @@
 # Hi there, I'm Vijendra 👋
 
-## Welcome to my GitHub Page.
+### Welcome to my GitHub Page.
 
 <br/>
 
-## Here is a little bit about myself:
+### Here is a little bit about myself:
 
 <br/>
 
