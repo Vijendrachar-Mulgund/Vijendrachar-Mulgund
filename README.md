@@ -1,0 +1,67 @@
+# Hi there, I'm Vijendra 👋
+
+## Welcome to my GitHub Page.
+
+<br/>
+
+## Here is a little bit about myself:
+
+<br/>
+
+### I'm an aspiring Fullstack Web Developer & UI/UX Designer.
+
+- 🔭 I’m currently learning Node JS with Express Framework & MongoDB.
+- 🌱 I’m always learning something or the Other, trying to keep myself updated about the latest Tech Stacks.
+- 🤝 I'm willing to collaborate with other Web Devwlopers.
+- 💻 I’m a Tech Savvy.
+- 🎮 Also a Fellow Gamer.
+- 🥅 Future Goals: Contribute more to Open Source projects. Become a better Designer.
+
+<br />
+
+## Here are some of the Tools & Languages I use often:
+
+<br/>
+
+### UI/UX Design
+
+<br/>
+
+[<img width="50" src="images/adobe-xd.png">][space]
+[<img width="55" src="images/figma_1.png">][space]
+
+### Front-end Stack
+
+<br/>
+
+[<img width="50" src="images/html.png">][space]
+[<img width="50" src="images/css.png">][space]
+[<img width="50" src="images/sass.png">][space]
+[<img width="50" src="images/js.png">][space]
+[<img width="50" src="images/ts.png">][space]
+[<img width="50" src="images/angular.png">][space]
+[<img width="50" src="images/ionic_1.png">][space]
+
+### Back-end Stack
+
+<br/>
+
+[<img width="48" src="images/node.png">][space]
+[<img width="48" src="images/mongo.png">][space]
+[<img width="48" src="images/firebase.png">][space]
+
+### Code Editor & other tools
+
+<br/>
+
+[<img width="50" src="images/vscode.png">][space]
+[<img width="50" src="images/git.png">][space]
+[<img width="50" src="images/github.png">][space]
+[<img width="48" src="images/postman.png">][space]
+
+<br/>
+<br/>
+
+### Thank You!
+
+[space]: ""
