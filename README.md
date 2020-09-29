@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently learning Node JS with Express Framework & MongoDB.
 - 🌱 I’m always learning something or the Other, trying to keep myself updated about the latest Tech Stacks.
-- 🤝 I'm willing to collaborate with other Web Devwlopers.
+- 🤝 I'm willing to collaborate with other Web Devlopers.
 - 💻 I’m a Tech Savvy.
 - 🎮 Also a Fellow Gamer.
 - 🥅 Future Goals: Contribute more to Open Source projects. Become a better Designer.
