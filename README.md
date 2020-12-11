@@ -1,6 +1,6 @@
 # Hi there, I'm Vijendra 👋
 
-### Welcome to my GitHub Page.
+## Welcome to my GitHub Page.
 
 
 
@@ -56,7 +56,7 @@
 [<img width="50" src="images/vscode.png">][space]
 [<img width="50" src="images/git.png">][space]
 [<img width="50" src="images/github.png">][space]
-[<img width="48" src="images/postman.png">][space]
+[<img width="48" src="images/postman-2.png">][space]
 
 <br/>
 <br/>
