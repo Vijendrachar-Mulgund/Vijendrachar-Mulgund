@@ -8,7 +8,7 @@
 
 
 
-### I'm a Fullstack Web Developer & UI/UX Designer.
+### I'm a Fullstack Web Developer with a good eye for design.
 
 - 🔭 I’m currently learning React JS.
 - 🌱 I’m always learning something or the Other, trying to keep myself updated about the latest Tech Stacks.
