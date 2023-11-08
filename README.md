@@ -4,7 +4,7 @@
 
 ### Here is a little bit about myself:
 
-### I'm a Fullstack Web Developer with a good eye for design.
+### I'm a Software Engineer with a good eye for design.
 
 - 🔭 I’m currently pursuing my Masters degree in Advanced Computer Science.
 - 📖 Learning Data structures, algorithms, and SQL.
