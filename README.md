@@ -1,27 +1,23 @@
-# Hi there, I'm Vijendra 👋
+# Hi there, I'm Vijendrachar Mulgund 👋
 
 ## Welcome to my GitHub Page.
 
 
-
 ### Here is a little bit about myself:
-
-
 
 ### I'm a Fullstack Web Developer with a good eye for design.
 
-- 🔭 I’m currently working with React JS, Node JS and Mongo DB.
-- 📖 Learning Data structures, algorithams and SQL. 
+- 🔭 I’m currently pursuing my Masters degree in Advanced Computer Science.
+- 📖 Learning Data structures, algorithms, and SQL. 
 - 🌱 I’m always learning something or the Other, trying to keep myself updated about the latest Tech Stacks.
 - 🤝 I'm willing to collaborate with other Web Developers.
 - 💻 I’m a Tech Savvy.
 - 🎮 Also a Fellow Gamer.
-- 🥅 Future Goals: Contribute more to Open Source projects. Become a better Designer.
+- 🥅 Future Goals: Contribute more to Open Source projects. Become a better developer.
 
 <br />
 
 ## Here are some of the Tools & Languages I use often:
-
 
 ### UI/UX Design
 
