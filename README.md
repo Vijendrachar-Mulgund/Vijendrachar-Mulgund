@@ -4,11 +4,10 @@
 
 ### Here is a little bit about myself:
 
-### I'm a Software Engineer with a good eye for design.
+### I'm a Software Engineer.
 
-- 🔭 I’m currently pursuing my Masters degree in Advanced Computer Science.
-- 📖 Learning Data structures, algorithms, and SQL.
-- 🌱 I’m always learning something or the Other, trying to keep myself updated about the latest Tech Stacks.
+- 🎓 I have a Masters degree in Advanced Computer Science from LBU .
+- 📖 Continuously Learning Data structures, algorithms and other new technologies.
 - 🤝 I'm open to collaborating with fellow developers.
 - 💻 I’m a Tech Savvy.
 - 🎮 Also a Fellow Gamer.
